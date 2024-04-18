@@ -31,4 +31,6 @@ open /tmp/ua.png
 ```bash
 curl -F 'image=@/tmp/ua.png' localhost:8088/img/
 ```  
+Демонстрація  
+  
 [![youtube](https://i9.ytimg.com/vi/J_z-brrT6V4/mq1.jpg?sqp=CKi3hLEG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEsgXyhlMA8=&rs=AOn4CLAROgKlvGitMA4fnMfv8z7QPMDSJw)](https://youtu.be/J_z-brrT6V4)
